@@ -1,0 +1,14 @@
+{
+  "name": "gitlab-to-jandi",
+  "version": "1.0.0",
+  "description": "Gitlab hook to jandi massenger.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "madnite1@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "gitlab-webhook-handler": "^1.0.1"
+  }
+}

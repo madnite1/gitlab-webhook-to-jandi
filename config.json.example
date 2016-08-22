@@ -1,0 +1,9 @@
+{
+	method: 'POST',
+	host: 'wh.jandi.com',
+	path: '/connect-api/webhook/{your-path-here}'
+	headers: {
+		'Accept': 'application/vnd.tosslab.jandi-v2+json',
+                'Content-Type': 'application/json'		
+	}
+}
